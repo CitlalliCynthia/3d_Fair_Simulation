@@ -40,9 +40,7 @@ The project also includes different environments and visual effects, such as day
 
 A demonstration of the interactive 3D fair, including navigation, cameras, animations, lighting, and different environments.
 
-**YouTube:** [Watch the project demo here](https://www.youtube.com/watch?v=fU9yJJEBips)
-
-![3d_Fair_Simulation](images/fair-preview.png)
+[![Watch the demo](images/fair-preview.png)](https://www.youtube.com/watch?v=fU9yJJEBips)
 
 ---
 
@@ -90,6 +88,4 @@ El proyecto también cuenta con diferentes ambientes y efectos visuales, incluye
 
 Demostración de la feria 3D interactiva, incluyendo navegación, cámaras, animaciones, iluminación y diferentes ambientes.
 
-**YouTube:** [Ver el video de demostración aquí](https://www.youtube.com/watch?v=fU9yJJEBips)
-
-![3d_Fair_Simulation](images/fair-preview.png)
+[![Watch the demo](images/fair-preview.png)](https://www.youtube.com/watch?v=fU9yJJEBips)
